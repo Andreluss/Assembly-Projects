@@ -1,4 +1,4 @@
-# Assembly-Projects
+# Low-level Programming Projects
 University projects programmed in C and Assembly Language (NASM). Documented and optimized for optimal executable size. 
 **Course**: Computer architecture and operating systems (2nd semester)  
 **Degree**: Bachelor's at University of Warsaw    
