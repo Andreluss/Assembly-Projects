@@ -1,5 +1,3 @@
-Here is the translation to English:
-
 Special file copying
 --------------------
 
