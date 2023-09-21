@@ -64,7 +64,5 @@ Issuing a grade may depend on a personal explanation of the details of how the p
 
 Attachments
 ---------
-
-[example1.in](https://github.com/Andreluss/Low-level-Programming/blob/main/scopy/attachments/example1.in)
-
-[example1.out](https://github.com/Andreluss/Low-level-Programming/blob/main/scopy/attachments/example1.out)
+[```example1.in```](https://github.com/Andreluss/Low-level-Programming/blob/main/scopy/attachments/example1.in)
+[```example1.out```](https://github.com/Andreluss/Low-level-Programming/blob/main/scopy/attachments/example1.out)
