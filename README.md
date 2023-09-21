@@ -1,14 +1,14 @@
 # Assembly-Projects
-University projects programmed in Assembly Language (NASM). Documented and optimized for optimal executable size. 
+University projects programmed in C and Assembly Language (NASM). Documented and optimized for optimal executable size. 
 **Course**: Computer architecture and operating systems (2nd semester)  
 **Degree**: Bachelor's at University of Warsaw    
 
 
 ## Abstract
-This repository consist of 2 projects: ```scopy.asm``` and ```sum.asm```.  
+This repository consist of 3 projects: ```seq```, ```scopy``` and ```sum```.  
 The goal of this projects was to test the ability of writing **reliable, optimized and documented low-level code**.  
 
-Both solutions passed **100%** of the tests at the first attempt.  
+All solutions passed **100%** of the tests at the first attempt.  
 Detailed assignment descriptions translated to english can be found in respective .md files. 
 
 ## Example
