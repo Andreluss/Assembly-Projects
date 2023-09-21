@@ -14,7 +14,7 @@ The functions and type name that the library should provide are declared in the 
 This is the name of a structural type representing a set of sequences with an equivalence relation. This type must be defined (implemented) as part of this task.
 
     seq_t * seq_new(void);
-  
+
 
 The function `seq_new` creates a new empty set of sequences.
 
